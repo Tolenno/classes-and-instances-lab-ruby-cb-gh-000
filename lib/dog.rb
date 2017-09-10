@@ -6,9 +6,9 @@ class Person
 
 end
 
-doggo = Dog.new
-doge = Dog.new
-doggy = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
+fido = Dog.new
 
-jack = Person.new
-jill = Person.new
+adele_goldberg = Person.new
+alan_kay = Person.new
